@@ -31,13 +31,18 @@ The COVID-19 pandemic has led to a boom in the food delivery industry, with a co
 
 ---
 
-## 4. Requirement
+## 4. Gantt Chart
+<img width="1635" height="536" alt="WorkSheet_ver1" src="https://github.com/user-attachments/assets/f36c9d82-ab63-4be9-9c07-8da2ab946515" />
+
+---
+
+## 5. Requirement
 + **Android Compiler Version**: API Android 11.0 R, AVD: R(Pixel2)
 + **Firebase SDK**: 11.8.0
 
 ---
 
-## 5. Preview
+## 6. Preview
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
