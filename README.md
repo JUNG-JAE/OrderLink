@@ -38,21 +38,31 @@ The COVID-19 pandemic has led to a boom in the food delivery industry, with a co
 ---
 
 ## 5. Preview
-<table>
-  <tr>
-    <td align="center"><b>Borad Detail</b></td>
-    <td align="center"><b>Board List</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/470dbdde-702c-4aa2-a0e7-9017ec5da717" alt="agent0" width="300" height="490"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/5cd8a4bf-8220-475f-80bb-3964cf09dee4" alt="agent0" width="300" height="490"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Set GPS</b></td>
-    <td align="center"><b>Profile</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/40d43072-b359-4d0a-8064-503efc4e1037" alt="agent0" width="300" height="490"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/cff1d4a2-0f66-4f38-9fbe-269b12997a13" alt="agent0" width="300" height="490"></td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none;"><b>Board Detail</b></td>
+      <td align="center" style="border: none;"><b>Board List</b></td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/470dbdde-702c-4aa2-a0e7-9017ec5da717" width="300" height="490">
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/5cd8a4bf-8220-475f-80bb-3964cf09dee4" width="300" height="490">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;"><b>Set GPS</b></td>
+      <td align="center" style="border: none;"><b>Profile</b></td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/40d43072-b359-4d0a-8064-503efc4e1037" width="300" height="490">
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/cff1d4a2-0f66-4f38-9fbe-269b12997a13" width="300" height="490">
+      </td>
+    </tr>
+  </table>
+</div>
